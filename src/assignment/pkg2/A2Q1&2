@@ -1,0 +1,16 @@
+1.
+a) True
+b) True
+c) False
+d) False
+e) False
+f) True
+g) True
+
+2.
+They preform differently. The reason to this is the first code is saying that 
+if it can pick up the thing then it can turn right then turn left. However, the 
+second code states that if it cannot pick up something then the thing can turn
+left then right. The difference to these two codes is the first is saying if it 
+can pick up, while the second is saying if it cannot pick up. But the turns are
+the same but formated in a different way.
